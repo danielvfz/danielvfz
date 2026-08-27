@@ -9,9 +9,7 @@ Sou estudante do sexto período de Sistemas de Informação na Universidade La S
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="mailto:danielvitorazevedo@gmail.com">
     <img src="https://img.shields.io/badge/Email-danielvitorazevedo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/daniel-vitor-24134532a/">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Vitor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
