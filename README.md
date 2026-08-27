@@ -26,7 +26,7 @@ Sou estudante do sexto período de Sistemas de Informação na Universidade La S
 - 🌐 Experiência acadêmica com desenvolvimento web
 - 🐍 Desenvolvimento de projeto utilizando Python e Django
 - 🗄️ Experiência acadêmica com banco de dados
-- 💻 Programação em C
+- 💻 Desenvolvimento de projeto utilizando C
 - ☕ Atualmente estudando Java
 
 ---
