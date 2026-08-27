@@ -2,7 +2,7 @@
 
 🚀 **Estudante de Sistemas de Informação**
 
-Sou estudante do sexto período de Sistemas de Informação na Universidade La Salle, com interesse em tecnologia e desenvolvimento de software . Tenho experiência acadêmica por meio de projetos desenvolvidos durante a graduação. Atualmente, estou ampliando meus conhecimentos.
+Sou estudante do sexto período de Sistemas de Informação na Universidade La Salle, com interesse em tecnologia e desenvolvimento de software. Tenho experiência acadêmica por meio de projetos desenvolvidos durante a graduação. Atualmente, estou ampliando meus conhecimentos.
 
 ---
 
