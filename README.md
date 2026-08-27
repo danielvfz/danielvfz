@@ -2,7 +2,7 @@
 
 🚀 **Estudante de Sistemas de Informação**
 
-Sou estudante do sexto período de Sistemas de Informação na Universidade La Salle, com interesse em desenvolvimento de software e desenvolvimento web. Tenho experiência acadêmica com Python, Django, HTML, CSS, JavaScript e C, por meio de projetos desenvolvidos durante a graduação. Atualmente, estou ampliando meus conhecimentos em Java e SQL.
+Sou estudante do sexto período de Sistemas de Informação na Universidade La Salle, com interesse em tecnologia e desenvolvimento de software . Tenho experiência acadêmica por meio de projetos desenvolvidos durante a graduação. Atualmente, estou ampliando meus conhecimentos.
 
 ---
 
@@ -22,12 +22,12 @@ Sou estudante do sexto período de Sistemas de Informação na Universidade La S
 ## 🧠 Sobre mim
 
 - 🎓 Estudante do 6º período de Sistemas de Informação
-- 💻 Interesse em desenvolvimento de software e desenvolvimento web
+- 💻 Interesse em tecnologia e desenvolvimento de software
 - 🌐 Experiência acadêmica com desenvolvimento web
 - 🐍 Desenvolvimento de projeto utilizando Python e Django
 - 🗄️ Experiência acadêmica com banco de dados
 - 💻 Programação em C
-- ☕ Atualmente estudando Java e SQL
+- ☕ Atualmente estudando Java
 
 ---
 
@@ -56,14 +56,5 @@ Sou estudante do sexto período de Sistemas de Informação na Universidade La S
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielvfz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvfz&layout=compact&theme=tokyonight" />
-</p>
 
 ---
